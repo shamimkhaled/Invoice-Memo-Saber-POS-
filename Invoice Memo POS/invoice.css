@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family:"Tahoma",sans-serif;
+    font-size: 10px;
+}
+.container{
+    font-family:"Tahoma",sans-serif;
+    font-size: 12px;
+    margin:auto;
+    display: block;
+    
+}
+
+h3{
+    font-size: 20px;
+}
+h5{
+    font-size: 17px;
+}
+h6{
+    font-size: 12px;
+}
+
+.my-0{
+    margin-left: -0.25rem;
+}
+
+
+.mt-n1 {
+    margin-top: -.30rem !important;
+  }
+
+
+  .mt-n3 {
+    margin-top: -1rem !important;
+  }
+
+  .mt-n2 {
+    margin-right: -0.25rem !important;
+  }
+
+
+
+
+
+
+
+
+  
