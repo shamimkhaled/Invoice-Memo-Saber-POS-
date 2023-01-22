@@ -1,0 +1,85 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family:"Tahoma",sans-serif;
+    font-size: 10px;
+}
+.container{
+    font-family:"Tahoma",sans-serif;
+    font-size: 12px;
+    margin:auto;
+    display: block;
+    
+}
+
+h3{
+    font-size: 20px;
+}
+h5{
+    font-size: 17px;
+}
+h6{
+    font-size: 12px;
+}
+
+.my-0{
+    margin-left: -0.25rem;
+}
+
+
+.mt-n1 {
+    margin-top: -.30rem !important;
+  }
+
+
+  .mt-n3 {
+    margin-top: -1rem !important;
+  }
+
+  .mt-n2 {
+    margin-right: -0.25rem !important;
+  }
+
+
+
+
+
+
+
+
+  /*<table class="table table-sm table-bordered border-dark">
+            
+  <tbody>
+    <tr>
+      <th scope="row">Invoice No</th>
+      <td>12112322342</td>
+      <th scope="row">Date</th>
+      <td>25 Jul 2022</td>
+     
+      
+    </tr>
+    <tr>
+      <th scope="row">Client Name</th>
+      <td>C0001-BisMillah Auto Solution</td>
+      <th scope="row">Mobile No</th>
+      <td>0174324546</td>
+      
+    </tr>
+    <tr>
+      <th scope="row">Address</th>
+      <td colspan="3">Diabari, Uttara, Dhaka</td>
+     
+     
+    </tr>
+    <tr>
+      <th scope="row">Delivery Address</th>
+      <td colspan="3"></td>
+
+     
+    </tr>
+  </tbody>
+</table>
+*/
